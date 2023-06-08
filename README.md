@@ -5,7 +5,7 @@
 Analista de teste de software (QA)
 <divi/>
   
-
+Aqui algumas das minhas habilidades
   
 <div>
 
